@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+	<title>Хабрахабр: Посты пользователя dapi</title>
+	<link>http://habrahabr.ru/users/dapi/rss/blog/</link>
+	<description><![CDATA[]]></description>
+	<language>ru</language>
+	<managingEditor>editor@habrahabr.ru</managingEditor>
+	<generator>habrahabr.ru</generator>
+	<pubDate>Sun, 14 Nov 2010 14:24:35 GMT</pubDate>
+	<lastBuildDate></lastBuildDate>
+	<image>
+		<link>http://habrahabr.ru/</link>
+		<url>http://habrahabr.ru/i/logo.gif</url>
+		<title>Хабрахабр</title>
+	</image>
+	
+			
+		<item>		
+			<title><![CDATA[Персональные блоги / Управление личными финансами без изнурительного журналирования каждой покупки]]></title>
+			<guid isPermaLink="true">http://habrahabr.ru/blogs/personal/88384/</guid>
+			<link>http://habrahabr.ru/blogs/personal/88384/</link>			
+			<description><![CDATA[В догонку недавно пробежавшей теме <a href="http://habrahabr.ru/blogs/google/87739/">о семейным бюджете в Google Docs</a>, расскажу как просто управлять личными финансами без изнурительного журналирования всех движений денежных средств, с помощью «промышленного метода» применяемого в коммерческих организациях.<br/>
+<div class="habracut"> <a class="habracut" href="http://dapi.habrahabr.ru/blog/88384/#habracut">Читать дальше &rarr;</a> </div>]]></description>
+			
+			<pubDate>Sun, 21 Mar 2010 23:38:48 GMT</pubDate>
+			<author>dapi</author>
+			<category>финансы</category><category>личные финансы</category>
+		</item>
+		
+		
+		
+		
+		
+		
+		
+	
+			
+		<item>		
+			<title><![CDATA[Персональные блоги / Почему российская власть держит народ за быдло]]></title>
+			<guid isPermaLink="true">http://habrahabr.ru/blogs/personal/86996/</guid>
+			<link>http://habrahabr.ru/blogs/personal/86996/</link>			
+			<description><![CDATA[Российская власть относится к собственному народу как к быдлу. Потому что так и есть. Не верите? Включайтесь!<br/>
+<br/>
+<div class="habracut"> <a class="habracut" href="http://dapi.habrahabr.ru/blog/86996/#habracut">Читать дальше &rarr;</a> </div>]]></description>
+			
+			<pubDate>Wed, 10 Mar 2010 10:23:22 GMT</pubDate>
+			<author>dapi</author>
+			<category>власть</category><category>ответственность</category>
+		</item>
+		
+		
+		
+		
+		
+		
+		
+	
+			
+		<item>		
+			<title><![CDATA[Управление проектами / Управление проектами с почасовой оплатой]]></title>
+			<guid isPermaLink="true">http://habrahabr.ru/blogs/pm/64660/</guid>
+			<link>http://habrahabr.ru/blogs/pm/64660/</link>			
+			<description><![CDATA[Расскажу о том, как превратить почасовую оплату в отличный способ управления проектом. А также о том, как заказчику (менеджеру проекта) не волноваться о завышении сроков разработчиком, а разработчику не беспокоиться, что заказчик будет его двигать по срокам.<br/>
+<br/>
+<div class="habracut"> <a class="habracut" href="http://habrahabr.ru/blogs/pm/64660/#habracut">время-деньги</a> </div>]]></description>
+			
+			<pubDate>Fri, 14 Aug 2009 13:38:13 GMT</pubDate>
+			<author>dapi</author>
+			<category>повременная оплата</category><category>человеко-час</category><category>управление проектами</category><category>мотивация</category>
+		</item>
+		
+		
+		
+		
+		
+		
+		
+	
+			
+		<item>		
+			<title><![CDATA[Ruby / BDD с помощью Cucumber]]></title>
+			<guid isPermaLink="true">http://habrahabr.ru/blogs/ruby/62958/</guid>
+			<link>http://habrahabr.ru/blogs/ruby/62958/</link>			
+			<description><![CDATA[Если вы привыкли сначала писать код, а потом его тестировать, то с BDD такой подход совсем не уместен. Сила BDD в том, что он помогает вести разработку начиная со стадии оформления ТЗ. Для BDD это список свойств (фич), который уместно писать вместе с заказчиком.<br/>
+<br/>
+Но самое главное, что по этому же списку происходит автоматическое тестирование проекта. Инструмент тестирования (в нашем случае это Cucumber) методично пройдет по вашему перечню и дотошно проверит реализацию каждой фичи.<br/>
+<div class="habracut"> <a class="habracut" href="http://habrahabr.ru/blogs/ruby/62958/#habracut">Читать дальше &rarr;</a> </div>]]></description>
+			
+			<pubDate>Mon, 29 Jun 2009 06:26:26 GMT</pubDate>
+			<author>dapi</author>
+			<category>ruby</category><category>BDD</category><category>Cucumber</category>
+		</item>
+		
+		
+		
+		
+		
+		
+		
+	
+			
+		<item>		
+			<title><![CDATA[Саморазвитие / Вольпинизм]]></title>
+			<guid isPermaLink="true">http://habrahabr.ru/blogs/selfdevelopment/27970/</guid>
+			<link>http://habrahabr.ru/blogs/selfdevelopment/27970/</link>			
+			<description><![CDATA[Занимаясь, по долгу службы, исполнением собственных замыслов я, как и большинство здесь собравшихся, столкнулся с тем, что не все идеи и проекты находят свое воплощение.<br/>
+<br/>
+Не устали еще это слышать? :)<br/>
+<br/>
+Наверняка уже читали о том, что для успеха проекта необходимо иметь цель и план?<br/>
+<br/>
+Есть кое что еще…<br/>
+<div class="habracut"> <a class="habracut" href="http://habrahabr.ru/blogs/selfdevelopment/27970/#habracut">Читать дальше &rarr;</a> </div>]]></description>
+			
+			<pubDate>Thu, 26 Jun 2008 04:10:18 GMT</pubDate>
+			<author>dapi</author>
+			<category>вольпинизм</category><category>воля</category><category>успех</category>
+		</item>
+		
+		
+		
+		
+		
+		
+		
+	
+			
+		<item>		
+			<title><![CDATA[Дизайн / Кому нужен дизайн, кроме дизайнеров?]]></title>
+			<guid isPermaLink="true">http://habrahabr.ru/blogs/design/27232/</guid>
+			<link>http://habrahabr.ru/blogs/design/27232/</link>			
+			<description><![CDATA[Вы действительно все еще верите что дизайн делает продажи?<br/>
+<br/>
+<div class="habracut"> <a class="habracut" href="http://habrahabr.ru/blogs/design/27232/#habracut">Читать дальше &rarr;</a> </div>]]></description>
+			
+			<pubDate>Wed, 11 Jun 2008 13:14:22 GMT</pubDate>
+			<author>dapi</author>
+			<category>дизайн</category><category>маркетинг</category>
+		</item>
+		
+		
+		
+		
+		
+		
+		
+	
+			
+		<item>		
+			<title><![CDATA[Саморазвитие / Обманывая других мы вредим сами себе]]></title>
+			<guid isPermaLink="true">http://habrahabr.ru/blogs/selfdevelopment/27069/</guid>
+			<link>http://habrahabr.ru/blogs/selfdevelopment/27069/</link>			
+			<description><![CDATA[Думаю что и на этот счет у Английских ученых есть свои исследования, правда я с ними не знаком, зато у меня в этом большой собственный опыт.<br/>
+<br/>
+Опыт, с которым давно пора покончить.<br/>
+<br/>
+Так почему же обманывать это плохо? Я говорю не о том, что делаем плохо кому-то, а отом что обманывая наносим сильный вред самим себе.<br/>
+<br/>
+Зачем мы врем?<br/>
+<br/>
+<div class="habracut"> <a class="habracut" href="http://habrahabr.ru/blogs/selfdevelopment/27069/#habracut">Читать дальше &rarr;</a> </div>]]></description>
+			
+			<pubDate>Sun, 08 Jun 2008 17:04:00 GMT</pubDate>
+			<author>dapi</author>
+			<category>обман</category>
+		</item>
+		
+		
+		
+		
+		
+		
+		
+	
+			
+		<item>		
+			<title><![CDATA[Персональные блоги / Физис]]></title>
+			<guid isPermaLink="true">http://habrahabr.ru/blogs/personal/26934/</guid>
+			<link>http://habrahabr.ru/blogs/personal/26934/</link>			
+			<description><![CDATA[Писать от души получается, когда не по себе. А когда не по себе - лучше писать, чем мучаться молча. Мутит что-то внутри. Толи чая перепил, толи от людей. Толи от положения. Хотя какое тут положение.<br />
+<br />
+Завтра снова приниматься за дело. В шесть утра телефон пилим-пилип. Сарделька, натуральный кофе (оп-па, а без кофе уже никак), 20 минут душ, ежедневник. Хабр, Жажда (zhazhda.ru), одноклассники, может быть news2, снова жажда, jdu.ru, снова жажда, висит там ещё два человека.<br />
+<br />
+Психологи говорят, что помимо хорошо изученных напряженностей управляющих человеком, есть ещё и ни хера не изученный 'физис'. Это такое стремление всего живого к росту и жизни. Та самая жажда жизни. Что с живыми не делаешь, а она всегда у них присутствует. А если её нет - тыц, суицид. И почему она есть, почему её нет - не понятно. Почему химические процессы в организме при тысячи возможных вариантов протекают именно так, что это приводит к росту - фиг на самом деле знает - просто физис и все тут. А если его нет - все достаточно быстро кончится.<br />
+<br />
+У меня бывает физис пропадает. День-два. Когда дело до стенки доходит, и уже некуда дальше - отталкиваешься от неё, как от дна моря.<br />
+<br />
+В детстве, когда ещё плохо плавал, любил затаить дыхание и нырять поглубже, опускаешься до тех пор, пока не встретишь ногами дно, а как встретишь - сжимаешься и выталкиваешься как пружинка. Если хорошо выпрямиться можно внезапно выскочить, как дельфин :) Однажды опускался так, опускался, а дна нет. Уже и воздух кончается. Наверх грести - не хватит запаса кислорода, скорость небольшая, да и плаваю плохо. А вниз - уже страшно - неизвестно где дно там, может быть с одного прыжка и не получится выпрыгнуть - тогда точно воздуха нехватит. Незнаю что сработало физис или усталость, но решил опускаться. Все равно этим бы все закончилось. Уже уши закладывает и темно как-то.. А, вот одно дно, мягкое такое, не заметное. Уже не нервничаешь, спокоен, понимаешь, только один шанс, и лучше быть спокойным, кислород попусту не тратить. Сжался сильно-сильно, как мог сильно, секунду замер и - стрелой вверх! Обтекаемый весь такой, как супермен, блин, и чувствуешь вокруг поток воды, ждешь до последнего, до последнего, до последнего! Вот уже не двигаешься, гребок руками.. ии-и-и! Не получилось как дельфин, получилось как старый дед - ыыыык.. аааа, кх-кх-кх..<br />
+<br />
+Физис..<br />
+<br />
+В жизни, заметил, таже фигня. Когда тебя что-то прижимает к стенке, опускаешься, кажется все плохо и на совсем, а потом понимаешь, до бесконечности это продолжатсья не может и вот уже через некоторое время, чувствуешь твердую почву под ногами. Глубоко, но твердую. Встал на неё покрепче, походил, отдохнул, успокоился, переосмыслил, а в общем-то не так все и плохо, низко, зато уверенно. Нормальная такая почва под ногами. При желании можно так сжаться и прыгнуть - что вообще улетишь!]]></description>
+			
+			<pubDate>Fri, 06 Jun 2008 09:16:48 GMT</pubDate>
+			<author>dapi</author>
+			<category>физис</category>
+		</item>
+		
+		
+		
+		
+		
+		
+		
+	
+			
+		<item>		
+			<title><![CDATA[Саморазвитие / Идеи и результат]]></title>
+			<guid isPermaLink="true">http://habrahabr.ru/blogs/selfdevelopment/26851/</guid>
+			<link>http://habrahabr.ru/blogs/selfdevelopment/26851/</link>			
+			<description><![CDATA[<strong>Корреляция</strong><br/>
+<br/>
+Как-то заметил, что между критикой и успехом есть корреляция. Чем интенсивнее критика, тем, очевидно, более высокую задачу поставил себе тот, кого критикуют. А чем ближе он к реализации своей задачи, тем менее, душевным и близким он становится другим людям и тем больше его критика.<br/>
+<br/>
+ — Ах он такой, дурак, он нас умных не слушает, делает неизвестно что, его проект провалится!<br/>
+<br/>
+И уж если он, действително проваливается, тут нет конца счастья! Вот оно! Свершилось то, о чем они говорили! Их не слушали и, вот, проект загнулся! Ура товарищи! Ещё раз доказали что мы были правы!<br/>
+<br/>
+Я попытался разобраться в этом феномене и понял что проблема в видении целей проекта и задач которые перед собой обычно ставят одни и другие.<br/>
+<br/>
+<div class="habracut"> <a class="habracut" href="http://habrahabr.ru/blogs/selfdevelopment/26851/#habracut">Читать дальше &rarr;</a> </div>]]></description>
+			
+			<pubDate>Thu, 05 Jun 2008 03:44:16 GMT</pubDate>
+			<author>dapi</author>
+			<category>идеи</category><category>результат</category>
+		</item>
+		
+		
+		
+		
+		
+		
+		
+	
+	
+	
+	
+	
+	
+	
+</channel>
+</rss>

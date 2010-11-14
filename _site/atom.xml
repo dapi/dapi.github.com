@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Git Ready</title>
+ <link href="http://feeds.feedburner.com/pismenny" rel="self"/>
+ <link href="http://dapi.ru/"/>
+ <updated>2010-11-14T18:04:46+03:00</updated>
+ <id>http://dapi.ru/</id>
+ <author>
+   <name>Danil Pismenny</name>
+   <email>danil@pismenny.ru</email>
+ </author>
+
+ 
+ <entry>
+   <title>Быстрый статичный блог (jekyll)</title>
+   <link href="http://dapi.ru/11-14-2010-static-blog.html"/>
+   <updated>2010-11-14T00:00:00+03:00</updated>
+   <id>http://dapi.ru/static-blog</id>
+   <content type="html">&lt;h1 id='___jekyll'&gt;Быстрый статичный блог (jekyll)&lt;/h1&gt;
+
+&lt;p&gt;http://www.juev.ru/2010/11/13/jekyll-hyde/&lt;/p&gt;
+
+&lt;p&gt;Ух, сколько я всего перепробовал для публикации статей – wordpress, tumblr, blogger, livejournal, zhazhda, habrahabr. У них были свои преимущества и один большой недостаток – сложновть или невозможность модифицировать окружений статей.&lt;/p&gt;
+
+&lt;p&gt;А еще так чтобы управлять блогом можно было с моего любимого emacs-а, потому что все эти веб-интерфейсы требуют мышки, а у меня ее нет.&lt;/p&gt;
+&lt;div class='highlight'&gt;&lt;pre&gt;&lt;code class='ruby'&gt;&lt;span class='k'&gt;def&lt;/span&gt; &lt;span class='nf'&gt;foo&lt;/span&gt;
+  &lt;span class='nb'&gt;puts&lt;/span&gt; &lt;span class='s1'&gt;&amp;#39;foo&amp;#39;&lt;/span&gt;
+&lt;span class='k'&gt;end&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;blog, static, emacs, jekyll, dropbox, ruby, google_analytics, disqus, and heroku&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Скейтбоардинг в Кабуле</title>
+   <link href="http://dapi.ru/11-14-2010-skeytboarding-v-kabule.html"/>
+   <updated>2010-11-14T00:00:00+03:00</updated>
+   <id>http://dapi.ru/skeytboarding-v-kabule</id>
+   <content type="html">&lt;a href=&quot;http://zhazhda.ru/topics/74435.html&quot;&gt;Скейтбоардинг в Кабуле&lt;/a&gt;: &lt;p&gt;&lt;div class=&quot;youtube&quot;&gt;
+&lt;object width=&quot;425&quot; height=&quot;350&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/h8dYtWXCYE8&amp;feature=player_embedded&quot;&gt;
+&lt;embed src=&quot;http://www.youtube.com/v/h8dYtWXCYE8&amp;feature=player_embedded&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;425&quot; height=&quot;350&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;br/&gt;&lt;div class=&quot;youtube_link&quot;&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=h8dYtWXCYE8&amp;feature=player_embedded&quot; target=&quot;_blank&quot;&gt;Смотреть на youtube.com …&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>crustnik:
+
+Speedflying in Wengen 2010 (via HalvorAngvik)
+</title>
+   <link href="http://dapi.ru/11-13-2010-crustnik-speedflying-in-wengen-2010-via-halvorangvik.html"/>
+   <updated>2010-11-13T00:00:00+03:00</updated>
+   <id>http://dapi.ru/crustnik-speedflying-in-wengen-2010-via-halvorangvik</id>
+   <content type="html">&lt;object width=&quot;400&quot; height=&quot;251&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/UwWLnaME0CI&amp;rel=0&amp;egm=0&amp;showinfo=0&amp;fs=1&quot;&gt;&lt;/param&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;&gt;&lt;/param&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;&lt;/param&gt;&lt;embed src=&quot;http://www.youtube.com/v/UwWLnaME0CI&amp;rel=0&amp;egm=0&amp;showinfo=0&amp;fs=1&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;400&quot; height=&quot;251&quot; allowFullScreen=&quot;true&quot; wmode=&quot;transparent&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;br/&gt;&lt;br/&gt;&lt;p&gt;&lt;a href=&quot;http://crustnik.tumblr.com/post/1559981825/speedflying-in-wengen-2010-via-halvorangvik&quot; target=&quot;_blank&quot;&gt;crustnik&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=UwWLnaME0CI&quot; target=&quot;_blank&quot;&gt;Speedflying in Wengen 2010&lt;/a&gt; (via &lt;a href=&quot;http://youtube.com/user/HalvorAngvik&quot; target=&quot;_blank&quot;&gt;HalvorAngvik&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Боевой хомяк</title>
+   <link href="http://dapi.ru/11-06-2010-boevoy-homyak.html"/>
+   <updated>2010-11-06T00:00:00+03:00</updated>
+   <id>http://dapi.ru/boevoy-homyak</id>
+   <content type="html">&lt;a href=&quot;http://zhazhda.ru/topics/74366.html&quot;&gt;Боевой хомяк&lt;/a&gt;: &lt;p&gt;&lt;div class=&quot;youtube&quot;&gt;
+&lt;object width=&quot;425&quot; height=&quot;350&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/Cf06WJQ4FnE&amp;feature=player_embedded&quot;&gt;
+&lt;embed src=&quot;http://www.youtube.com/v/Cf06WJQ4FnE&amp;feature=player_embedded&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;425&quot; height=&quot;350&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;br/&gt;&lt;div class=&quot;youtube_link&quot;&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=Cf06WJQ4FnE&amp;feature=player_embedded&quot; target=&quot;_blank&quot;&gt;Смотреть на youtube.com …&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Эдди Иззард - Ассасин от слова гашиш </title>
+   <link href="http://dapi.ru/11-03-2010-eddi-izzard-assasin-ot-slova-gashish.html"/>
+   <updated>2010-11-03T00:00:00+03:00</updated>
+   <id>http://dapi.ru/eddi-izzard-assasin-ot-slova-gashish</id>
+   <content type="html">&lt;a href=&quot;http://zhazhda.ru/topics/74347.html&quot;&gt;Эдди Иззард - Ассасин от слова гашиш &lt;/a&gt;: &lt;p&gt;Никогда не слышал этого комика, классный дядька )_&lt;br/&gt;__&lt;br/&gt;_&lt;div class=&quot;youtube&quot;&gt;
+&lt;object width=&quot;425&quot; height=&quot;350&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/PkffELPCcZQ&quot;&gt;
+&lt;embed src=&quot;http://www.youtube.com/v/PkffELPCcZQ&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;425&quot; height=&quot;350&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;br/&gt;&lt;div class=&quot;youtube_link&quot;&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=PkffELPCcZQ&quot; target=&quot;_blank&quot;&gt;Смотреть на youtube.com …&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title> Зачем человеку большие проекты</title>
+   <link href="http://dapi.ru/11-03-2010--zachem-cheloveku-bolshie-proekty.html"/>
+   <updated>2010-11-03T00:00:00+03:00</updated>
+   <id>http://dapi.ru/-zachem-cheloveku-bolshie-proekty</id>
+   <content type="html">&lt;a href=&quot;http://zhazhda.ru/topics/74340.html&quot;&gt; Зачем человеку большие проекты&lt;/a&gt;: &lt;p&gt;Еще одна история, рассказанная мне Абдуллой. В этот раз он хотел объяснить мне, что заниматься мелочами всю жизнь, будь то рисунок, сделанный за вечер, или поделка за час, нельзя. Любому нужны…&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Эдди Иззард - Ассасин от слова гашиш </title>
+   <link href="http://dapi.ru/11-02-2010-eddi-izzard-assasin-ot-slova-gashish.html"/>
+   <updated>2010-11-02T00:00:00+03:00</updated>
+   <id>http://dapi.ru/eddi-izzard-assasin-ot-slova-gashish</id>
+   <content type="html">&lt;object width=&quot;400&quot; height=&quot;325&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/PkffELPCcZQ&amp;rel=0&amp;egm=0&amp;showinfo=0&amp;fs=1&quot;&gt;&lt;/param&gt;&lt;param name=&quot;wmode&quot; value=&quot;transparent&quot;&gt;&lt;/param&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;&lt;/param&gt;&lt;embed src=&quot;http://www.youtube.com/v/PkffELPCcZQ&amp;rel=0&amp;egm=0&amp;showinfo=0&amp;fs=1&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;400&quot; height=&quot;325&quot; allowFullScreen=&quot;true&quot; wmode=&quot;transparent&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;br/&gt;&lt;br/&gt;&lt;p&gt;&lt;h1 id=&quot;watch-headline-title&quot;&gt;&lt;span id=&quot;eow-title&quot; class=&quot;long-title&quot; dir=&quot;ltr&quot; title=&quot;Эдди Иззард - Ассасин от слова гашиш&quot;&gt;Эдди Иззард - Ассасин от слова гашиш &lt;/span&gt;&lt;/h1&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Трампик - видео</title>
+   <link href="http://dapi.ru/11-01-2010-trampik-video.html"/>
+   <updated>2010-11-01T00:00:00+03:00</updated>
+   <id>http://dapi.ru/trampik-video</id>
+   <content type="html">&lt;a href=&quot;http://zhazhda.ru/topics/74331.html&quot;&gt;Трампик - видео&lt;/a&gt;: &lt;p&gt;&lt;div class=&quot;youtube&quot;&gt;
+&lt;object width=&quot;425&quot; height=&quot;350&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/OPMTetP1AE8&amp;feature=player_embedded&quot;&gt;
+&lt;embed src=&quot;http://www.youtube.com/v/OPMTetP1AE8&amp;feature=player_embedded&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;425&quot; height=&quot;350&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;br/&gt;&lt;div class=&quot;youtube_link&quot;&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=OPMTetP1AE8&amp;feature=player_embedded&quot; target=&quot;_blank&quot;&gt;Смотреть на youtube.com …&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;_&lt;br/&gt;__&lt;br/&gt;_&lt;a href=&quot;http://zhazhda.ru/redir?l=http%3A%2F%2Fwww.goalrush.org%2F&quot; class=&quot;away&quot; title=&quot;Кликов по ссылке , в общем на хост 119&quot; target=&quot;_blank&quot;&gt;&lt;a href=&quot;http://www.goalrush.org&quot; target=&quot;_blank&quot;&gt;www.goalrush.org&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Первые шаги к появлению малой авиации</title>
+   <link href="http://dapi.ru/11-01-2010-pervye-shagi-k-poyavleniyu-maloy-aviatsii.html"/>
+   <updated>2010-11-01T00:00:00+03:00</updated>
+   <id>http://dapi.ru/pervye-shagi-k-poyavleniyu-maloy-aviatsii</id>
+   <content type="html">&lt;a href=&quot;http://atner.livejournal.com/73492.html&quot;&gt;Первые шаги к появлению малой авиации&lt;/a&gt;: &lt;p&gt;Сегодня вступают новые федеральные правила использования воздушного пространства. Теперь воздушное пространство будет разделено на три класса: класс “Альфа”, “Чарли” и “Гольф”. &lt;br/&gt;&lt;img src=&quot;http://img-fotki.yandex.ru/get/4401/atner.17e/0_49a92_8d194ae5_L.jpg&quot;/&gt;&lt;br/&gt;Гольф как раз для…&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Идеальный лузер</title>
+   <link href="http://dapi.ru/11-01-2010-idealnyy-luzer_flymake.html"/>
+   <updated>2010-11-01T00:00:00+03:00</updated>
+   <id>http://dapi.ru/idealnyy-luzer_flymake</id>
+   <content type="html">&lt;a href=&quot;http://zhazhda.ru/topics/74330.html&quot;&gt;Идеальный лузер&lt;/a&gt;: &lt;p&gt;Давайте, коллеги, обсудим такую черту человеческого характера, как стремление делать вс_ идеально. Есть люди, у которых эта черта выражена очень ярко. Эти люди пытаются делать идеально абсолютно вс_….&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Идеальный лузер</title>
+   <link href="http://dapi.ru/11-01-2010-idealnyy-luzer.html"/>
+   <updated>2010-11-01T00:00:00+03:00</updated>
+   <id>http://dapi.ru/idealnyy-luzer</id>
+   <content type="html">&lt;a href=&quot;http://zhazhda.ru/topics/74330.html&quot;&gt;Идеальный лузер&lt;/a&gt;: &lt;p&gt;Давайте, коллеги, обсудим такую черту человеческого характера, как стремление делать вс_ идеально. Есть люди, у которых эта черта выражена очень ярко. Эти люди пытаются делать идеально абсолютно вс_….&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>OpenSource zhazhda.ru</title>
+   <link href="http://dapi.ru/10-31-2010-opensource-zhazhda-ru.html"/>
+   <updated>2010-10-31T00:00:00+04:00</updated>
+   <id>http://dapi.ru/opensource-zhazhda-ru</id>
+   <content type="html">&lt;a href=&quot;http://zhazhda.ru/topics/74324.html&quot;&gt;OpenSource zhazhda.ru&lt;/a&gt;: &lt;p&gt;С сегодняшнего дня zhazhda.ru стала OpenSource._&lt;br/&gt;__&lt;br/&gt;_Теперь любой желающий (и знающий perl) может запустить у себя подобный проект и даже изменить в нем что угодно._&lt;br/&gt;__&lt;br/&gt;_Код открыт для всеобщего…&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>DIY или Сделай Сам / Фотографируем Солнце</title>
+   <link href="http://dapi.ru/10-31-2010-diy-ili-sdelay-sam-fotografiruem-solntse.html"/>
+   <updated>2010-10-31T00:00:00+04:00</updated>
+   <id>http://dapi.ru/diy-ili-sdelay-sam-fotografiruem-solntse</id>
+   <content type="html">&lt;a href=&quot;http://habrahabr.ru/blogs/DIY/107251/&quot;&gt;DIY или Сделай Сам / Фотографируем Солнце&lt;/a&gt;: &lt;p&gt;&lt;img src=&quot;http://www.wired.com/images_blogs/wiredscience/2010/10/sun_photo_alan_friedman.jpg&quot; alt=&quot;image&quot;/&gt;&lt;br/&gt;
+Это потрясающее изображение Солнца уже успело облететь весь интернет. Журналистам Wired удалось разузнать у автора фотографии художника и астрофотографа Алана Фридмана, как он сделал этот…&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>СМИ в интернете / ФСБ готова закрыть Wikileaks</title>
+   <link href="http://dapi.ru/10-29-2010-smi-v-internete-fsb-gotova-zakryt-wikileaks_flymake.html"/>
+   <updated>2010-10-29T00:00:00+04:00</updated>
+   <id>http://dapi.ru/smi-v-internete-fsb-gotova-zakryt-wikileaks_flymake</id>
+   <content type="html">&lt;a href=&quot;http://habrahabr.ru/blogs/mass_media/107088/&quot;&gt;СМИ в интернете / ФСБ готова закрыть Wikileaks&lt;/a&gt;: &lt;p&gt;Вчера &lt;a href=&quot;http://habrahabr.ru/blogs/mass_media/107010/&quot; target=&quot;_blank&quot;&gt;стало известно&lt;/a&gt;, что Wikileaks собирается опубликовать некие секретные документы «о политической ситуации в России», и уже сегодня получен &lt;a href=&quot;http://lifenews.ru/news/41880&quot; target=&quot;_blank&quot;&gt;комментарий от ФСБ&lt;/a&gt; в связи с этим.&lt;br/&gt;&lt;br/&gt;
+«При желании и…&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>СМИ в интернете / ФСБ готова закрыть Wikileaks</title>
+   <link href="http://dapi.ru/10-29-2010-smi-v-internete-fsb-gotova-zakryt-wikileaks.html"/>
+   <updated>2010-10-29T00:00:00+04:00</updated>
+   <id>http://dapi.ru/smi-v-internete-fsb-gotova-zakryt-wikileaks</id>
+   <content type="html">&lt;a href=&quot;http://habrahabr.ru/blogs/mass_media/107088/&quot;&gt;СМИ в интернете / ФСБ готова закрыть Wikileaks&lt;/a&gt;: &lt;p&gt;Вчера &lt;a href=&quot;http://habrahabr.ru/blogs/mass_media/107010/&quot; target=&quot;_blank&quot;&gt;стало известно&lt;/a&gt;, что Wikileaks собирается опубликовать некие секретные документы «о политической ситуации в России», и уже сегодня получен &lt;a href=&quot;http://lifenews.ru/news/41880&quot; target=&quot;_blank&quot;&gt;комментарий от ФСБ&lt;/a&gt; в связи с этим.&lt;br/&gt;&lt;br/&gt;
+«При желании и…&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Коля Куликов об одноклассниках</title>
+   <link href="http://dapi.ru/10-29-2010-kolya-kulikov-ob-odnoklassnikah.html"/>
+   <updated>2010-10-29T00:00:00+04:00</updated>
+   <id>http://dapi.ru/kolya-kulikov-ob-odnoklassnikah</id>
+   <content type="html">&lt;a href=&quot;http://zhazhda.ru/topics/74321.html&quot;&gt;Коля Куликов об одноклассниках&lt;/a&gt;: &lt;p&gt;&lt;div class=&quot;youtube&quot;&gt;
+&lt;object width=&quot;425&quot; height=&quot;350&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/BXLsVqEiitM&amp;feature=player_embedded&quot;&gt;
+&lt;embed src=&quot;http://www.youtube.com/v/BXLsVqEiitM&amp;feature=player_embedded&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;425&quot; height=&quot;350&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;br/&gt;&lt;div class=&quot;youtube_link&quot;&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=BXLsVqEiitM&amp;feature=player_embedded&quot; target=&quot;_blank&quot;&gt;Смотреть на youtube.com …&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Копирайт / [Ссылка] Сбор подписей за поправки в Гражданский кодекс РФ</title>
+   <link href="http://dapi.ru/10-28-2010-kopirayt-ssylka-sbor-podpisey-za-popravki-v-grazhdanskiy-kodeks-rf.html"/>
+   <updated>2010-10-28T00:00:00+04:00</updated>
+   <id>http://dapi.ru/kopirayt-ssylka-sbor-podpisey-za-popravki-v-grazhdanskiy-kodeks-rf</id>
+   <content type="html">&lt;a href=&quot;http://habrahabr.ru/blogs/copyright/107048/&quot;&gt;Копирайт / [Ссылка] Сбор подписей за поправки в Гражданский кодекс РФ&lt;/a&gt;: &lt;p&gt;Организован сбор подписей за поправки в Гражданский кодекс РФ.&lt;br/&gt;&lt;br/&gt;
+Они направлены на:&lt;br/&gt;
+• введение свободных лицензий&lt;br/&gt;
+• введение свободы панорамы&lt;br/&gt;
+• изменение срока действия АП&lt;br/&gt;
+• свободное…&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Роботы / Военным роботам уже более 65 лет!</title>
+   <link href="http://dapi.ru/10-23-2010-roboty-voennym-robotam-uzhe-bolee-65-let.html"/>
+   <updated>2010-10-23T00:00:00+04:00</updated>
+   <id>http://dapi.ru/roboty-voennym-robotam-uzhe-bolee-65-let</id>
+   <content type="html">&lt;a href=&quot;http://habrahabr.ru/blogs/robot/106707/&quot;&gt;Роботы / Военным роботам уже более 65 лет!&lt;/a&gt;: &lt;p&gt;Возможно самоходную мину &lt;a href=&quot;http://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%B8%D0%B0%D1%84_%28%D1%81%D0%B0%D0%BC%D0%BE%D1%85%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B8%D0%BD%D0%B0%29&quot; target=&quot;_blank&quot;&gt;голиаф&lt;/a&gt; и не полностью конкретно назвать роботом, но все же при просмотре тех технологических свершений, которые были сделаны во время Второй Мировой иногда поражаешся.&lt;br/&gt;&lt;embed src=&quot;http://www.youtube.com/v/I_dr0arBltU&amp;hl=en&amp;fs=1&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Facebook / Программист Google сделал расширение Facebook Disconnect</title>
+   <link href="http://dapi.ru/10-22-2010-facebook-programmist-google-sdelal-rasshirenie-facebook-disconnect.html"/>
+   <updated>2010-10-22T00:00:00+04:00</updated>
+   <id>http://dapi.ru/facebook-programmist-google-sdelal-rasshirenie-facebook-disconnect</id>
+   <content type="html">&lt;a href=&quot;http://habrahabr.ru/blogs/facebook/106547/&quot;&gt;Facebook / Программист Google сделал расширение Facebook Disconnect&lt;/a&gt;: &lt;p&gt;Разработчик Брайан Кенниш (Brian Kennish) из Google выпустил расширение &lt;a href=&quot;https://chrome.google.com/extensions/detail/ejpepffjfmamnambagiibghpglaidiec&quot; target=&quot;_blank&quot;&gt;Facebook Disconnect&lt;/a&gt; для браузера Chrome, которое блокирует модуль &lt;a href=&quot;http://developers.facebook.com/blog/post/108&quot; target=&quot;_blank&quot;&gt;Facebook Connect&lt;/a&gt; во время посещения сторонних ресурсов….&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Mad Men Theme Song ... With a Twist </title>
+   <link href="http://dapi.ru/10-17-2010-mad-men-theme-song-with-a-twist.html"/>
+   <updated>2010-10-17T00:00:00+04:00</updated>
+   <id>http://dapi.ru/mad-men-theme-song-with-a-twist</id>
+   <content type="html">&lt;a href=&quot;http://zhazhda.ru/topics/74236.html&quot;&gt;Mad Men Theme Song ... With a Twist &lt;/a&gt;: &lt;p&gt;&lt;div class=&quot;youtube&quot;&gt;
+&lt;object width=&quot;425&quot; height=&quot;350&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/OEj0z0maxzM&amp;feature=player_embedded&quot;&gt;
+&lt;embed src=&quot;http://www.youtube.com/v/OEj0z0maxzM&amp;feature=player_embedded&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;425&quot; height=&quot;350&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;br/&gt;&lt;div class=&quot;youtube_link&quot;&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=OEj0z0maxzM&amp;feature=player_embedded&quot; target=&quot;_blank&quot;&gt;Смотреть на youtube.com …&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Копирайт / [Ссылка] Путин подписал постановление об отчислении авторам 1% от стоимости техники и чистых дисков</title>
+   <link href="http://dapi.ru/10-16-2010-kopirayt-ssylka-putin-podpisal-postanovlenie-ob-otchislenii-avtoram-1-ot-stoimosti-tehniki-i-chistyh-diskov.html"/>
+   <updated>2010-10-16T00:00:00+04:00</updated>
+   <id>http://dapi.ru/kopirayt-ssylka-putin-podpisal-postanovlenie-ob-otchislenii-avtoram-1-ot-stoimosti-tehniki-i-chistyh-diskov</id>
+   <content type="html">&lt;a href=&quot;http://habrahabr.ru/blogs/copyright/106209/&quot;&gt;Копирайт / [Ссылка] Путин подписал постановление об отчислении авторам 1% от стоимости техники и чистых дисков&lt;/a&gt;: &lt;p&gt;Владимир Путин подписал постановление о вознаграждении за свободное воспроизведение фонограмм и аудиовизуальных произведений в личных целях. Теперь импортеры и производители компьютеров, телефонов,…&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Пять лучших креплений дешевле 200$</title>
+   <link href="http://dapi.ru/10-07-2010-pyat-luchshih-krepleniy-deshevle-200.html"/>
+   <updated>2010-10-07T00:00:00+04:00</updated>
+   <id>http://dapi.ru/pyat-luchshih-krepleniy-deshevle-200</id>
+   <content type="html">&lt;a href=&quot;http://glader.ru/users/prophoter/posts/3625&quot;&gt;Пять лучших креплений дешевле 200$&lt;/a&gt;: &lt;p&gt;Тебе нужен комфорт, гибкость, долговечность, точная передача усилий на доску - и все это в одной паре креплений? Ты можешь запросто получить всё и даже не придется выкладывать 400 баксов за…&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Google / Street View. Теперь в Антарктике</title>
+   <link href="http://dapi.ru/10-02-2010-google-street-view-teper-v-antarktike.html"/>
+   <updated>2010-10-02T00:00:00+04:00</updated>
+   <id>http://dapi.ru/google-street-view-teper-v-antarktike</id>
+   <content type="html">&lt;a href=&quot;http://habrahabr.ru/blogs/google/105330/&quot;&gt;Google / Street View. Теперь в Антарктике&lt;/a&gt;: &lt;p&gt;Google опять поражает своими проектами. &lt;a href=&quot;http://goo.gl/wAD1&quot; target=&quot;_blank&quot;&gt;Street View добрался до Антарктики.&lt;br/&gt;&lt;br/&gt;&lt;img src=&quot;http://habrastorage.org/storage/a11041ff/233819c3/ee7d8773/e660466e.jpeg&quot;/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;
+И это правда поражает воображение. Не каждому удастся добраться до Антарктики. Даже добавить нечего.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Быстрый статичный блог (jekyll)-2</title>
+   <link href="http://dapi.ru/04-22-2010-prishel-nauchilsya-ostalsya-2.html"/>
+   <updated>2010-04-22T00:00:00+04:00</updated>
+   <id>http://dapi.ru/prishel-nauchilsya-ostalsya-2</id>
+   <content type="html">&lt;p&gt;asdasdas&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Пришел, научился, остался.</title>
+   <link href="http://dapi.ru/04-22-2010-prishel-nauchilsya-ostalsya.html"/>
+   <updated>2010-04-22T00:00:00+04:00</updated>
+   <id>http://dapi.ru/prishel-nauchilsya-ostalsya</id>
+   <content type="html">&lt;p&gt;Вы еще  боитесь брать на работу новых сотрудников, потому что они  научится и  уйдут? Не бойтесь, на вашей стороне Трудовой Кодекс.&lt;/p&gt;
+&lt;p&gt;&lt;span id=&quot;more-113&quot;&gt;&lt;/span&gt;&lt;img title=&quot;Далее…&quot; src=&quot;http://pismenny.wordpress.com/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;Должен  будешь&lt;/h2&gt;
+&lt;p&gt;Проблема с кадрами очень  важна для малых предприятий,  нужно: найти, отобрать, обучить,  адаптировать, а тут еще всегда есть  шанс, что сотрудник в любой момент  скажет &amp;laquo;спасибо за внимание&amp;raquo; и  свалит к конкуренту, уже обученный и  подготовленный.&lt;/p&gt;
+&lt;p&gt;Как ни  странно избежать этого достаточно  просто законным способом  &amp;#8211; включить в  трудовой договор пункт  запрещающий сотруднику существенный период (3-4  года) работать  в сфере  деятельностью вашей компании и заключить  ученический договор, с выплатой  стоимости не отработанного обучения. При  устройстве на работу вы можете  поставить условие &amp;#8211; пройти обязательные  учебные курсы по истечении  которых, законно, по ученическому договору,  вы в праве обязать  сотрудника отработать на вашем предприятии  определенный срок или он  должен будет вернуть сумму, потраченную за  обучение.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Статья №249 Трудовой Кодекс РФ.&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;&lt;br /&gt;
+В случае  увольнения без уважительных причин до истечения срока,  обусловленного  трудовым договором или соглашением об обучении за счет  средств  работодателя, работник обязан возместить затраты, понесенные   работодателем на его обучение, исчисленные пропорционально фактически не   отработанному после окончания обучения времени, если иное не   предусмотрено трудовым договором или соглашением об обучении.&lt;br /&gt;
+&lt;/em&gt;&lt;br /&gt;
+Преимущество ученического договора еще и в том, что работник уже в   начале карьеры осознает, &lt;em&gt;какие усилия затрачиваются &lt;/em&gt;на  его  обучение и в каких денежных единицах они измеряются. Таким образом   повышается и его ответственность.&lt;/p&gt;
+&lt;p&gt;Само обучение может   проходить как в профессиональном заведении, так и на рабочем месте,   силами самого работодателя в форме индивидуального, бригадного,   курсового обучения.&lt;/p&gt;
+&lt;h2&gt;Обучение на  рабочем месте&lt;/h2&gt;
+&lt;p&gt;Если с  ученическим договором все более-менее  понятно, то с обучением на  рабочем месте, на первый взгляд, не все  выглядит так гладко. Кто будет  его учить? Как? Чему? В какое время?&lt;/p&gt;
+&lt;p&gt;На самом деле достаточно  уделить этому вопросу несколько часов и у  вас будет обучающая  программа, которая поможет вашим сотрудникам и  после обучения, в самой  работе.&lt;/p&gt;
+&lt;h3&gt;По  инструкции.&lt;/h3&gt;
+&lt;p&gt;Для начала нужно определиться что  будет делать новый сотрудник.  Установить его список Должностных  Обязанностей. На ваших обучающих  курсах сотрудник должен научиться их  выполнять. А для этого нужно их,  как минимум, иметь в бумажном виде.&lt;/p&gt;
+&lt;p&gt;Если у вас до сих пор не  прописаны должностные обязанности или вы  формально скачали их с  интернета &amp;#8211; плохо, вам пора написать  собственные, согласно исполняемым  сотрудником функциям. А если вы  считаете что составлять список  должностных обязанностей и инструкций нет  смысла, потому что &amp;laquo;все описать  не возможно&amp;raquo;. То как тогда, по-вашему  сотрудник может качественно  выполнять то, что даже невозможно описать?&lt;/p&gt;
+&lt;p&gt;Ведь, когда у вас  появляются какие-то проблемы с выполнением  сотрудником своих  обязанностей достаточно легко выяснить причину и  определить что делать,  если эти обязанности жестко прописаны:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Если  они прописаны, а он их  не умеет выполнять &amp;#8211; все вопросы к ему  наставнику, это он схалтурил и  не научил их выполнять качественно.  Проведите повторное обучение и  аттестацию&lt;/li&gt;
+&lt;li&gt;Если сотрудник не выполняет эти обязанности по  независящим от него  причинам &amp;#8211; выявляйте и удаляйте эти причины.&lt;/li&gt;
+&lt;li&gt;Если не  выполняет по другим причинам, это уже законный повод к  выговору или  увольнению.&lt;/li&gt;
+&lt;li&gt;Если эти обязанности не выполняются потому то они не  были  прописаны &amp;#8211; извините, это уже ваша вина, прописывайте.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Согласно Трудовому Законодательству работодатель не вправе без согласия   работника изменять список его должностных обязанностей. А вот выпустить  и  потребовать исполнять новую должностную или рабочую инструкцию, в   рамках существующих обязанностей, &amp;#8211; вполне законное требование.&lt;/p&gt;
+&lt;h3&gt;Знать  и уметь&lt;/h3&gt;
+&lt;p&gt;Далее, исходя из списка  должностных обязанностей или  инструкций, нужно составить  перечень  навыков, которыми должен обладать  сотрудник. Выписать их в отдельный  документ и определить критерий, по  которому можно оценить насколько  сотрудник овладел данным навыком.&lt;/p&gt;
+&lt;p&gt;Например:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;У монтажника  связи необходимые навыки для  выполнения обязанности &amp;laquo;производить монтаж  линий и узлов связи&amp;raquo;, это:  умение работать с перфоратором, знание  маркировки кабеля и крепежных  материалов, умение устанавливать крепеж. А  критерием оценки может быть &amp;#8211;  самостоятельный монтаж линии в 100 метров  согласно нормативам.&lt;/li&gt;
+&lt;li&gt;У  офис-менеджера критерий оценки навыка владения  должностной инструкцией  &amp;#8211; повторить наизусть ее пункты в установленном  порядке. А критерий  оценки ведения журнала корреспонденции &amp;#8211; уметь его  заполнить в течении 5  минут и знать все совершаемые с ним операции.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Установленные навыки и критерии оценки выписываем на аттестационный   лист. В результате мы имеем документ, по которому:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Известно  чему  конкретно обучать новичка;&lt;/li&gt;
+&lt;li&gt;Новичок понимает что именно от  него требуется;&lt;/li&gt;
+&lt;li&gt;В дальнейшем по  нему можно проводить  периодическую аттестацию.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Научить&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Если у  нас есть список &amp;laquo;чему  нужно научить&amp;raquo;, и &amp;laquo;как оценить эти знания&amp;raquo;, то  осталось определить &amp;laquo;как  это сделать?&amp;raquo; и &amp;laquo;кто это будет делать&amp;raquo;.&lt;/p&gt;
+&lt;p&gt;Обучать можно в  рабочем режиме на месте, по принципу &amp;laquo;делай и учись&amp;raquo;,  выдать обучающую  литературу (&amp;laquo;иди и учись&amp;raquo;), или затратить отдельное  время и провести  классовое обучение (&amp;laquo;смотри и учись&amp;raquo;). В общем способов  много &amp;#8211; выбирайте  наиболее подходящий к вашей ситуации.&lt;/p&gt;
+&lt;p&gt;Кто  будет учить?  Непосредственный начальник, старший сотрудник, самый  опытный сотрудник,  самый разгруженный сотрудник и т.д. Тоже множество  вариантов. Особенно  хорошо отдать новобранца на обучение сотруднику, к  которому в помощь  нанимают обучаемого. С этого момента такой сотрудник  называется  наставником и его задача обучить новобранца всем  установленным навыкам в  определенный срок.&lt;/p&gt;
+&lt;p&gt;Незабываем  мотивировать наставника:  премиально в случае удачного прохождения  учеником аттестации,  возможностью &amp;laquo;эксплуатации&amp;raquo; новенького для  исполнения обязанностей  наставника и т.д.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Экзамен&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Аттестационный лист есть, перечень навыков есть, описание  критериев  оценки есть. Осталось только потратить немного времени,  принять экзамен.  Принимать экзамен может сам наставник &amp;#8211; сам научил, сам  оценил и расписался в  качестве обучения. В этом случае спрос с одного  человека. Но можно  отдать на экзамен другому сотруднику &amp;#8211; оценка будет  более объективной.&lt;/p&gt;
+&lt;br /&gt;  &lt;a rel=&quot;nofollow&quot; href=&quot;http://feeds.wordpress.com/1.0/gocomments/pismenny.wordpress.com/113/&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/pismenny.wordpress.com/113/&quot; /&gt;&lt;/a&gt; &lt;a rel=&quot;nofollow&quot; href=&quot;http://feeds.wordpress.com/1.0/godelicious/pismenny.wordpress.com/113/&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/delicious/pismenny.wordpress.com/113/&quot; /&gt;&lt;/a&gt; &lt;a rel=&quot;nofollow&quot; href=&quot;http://feeds.wordpress.com/1.0/gofacebook/pismenny.wordpress.com/113/&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/facebook/pismenny.wordpress.com/113/&quot; /&gt;&lt;/a&gt; &lt;a rel=&quot;nofollow&quot; href=&quot;http://feeds.wordpress.com/1.0/gotwitter/pismenny.wordpress.com/113/&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/twitter/pismenny.wordpress.com/113/&quot; /&gt;&lt;/a&gt; &lt;a rel=&quot;nofollow&quot; href=&quot;http://feeds.wordpress.com/1.0/gostumble/pismenny.wordpress.com/113/&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/stumble/pismenny.wordpress.com/113/&quot; /&gt;&lt;/a&gt; &lt;a rel=&quot;nofollow&quot; href=&quot;http://feeds.wordpress.com/1.0/godigg/pismenny.wordpress.com/113/&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/digg/pismenny.wordpress.com/113/&quot; /&gt;&lt;/a&gt; &lt;a rel=&quot;nofollow&quot; href=&quot;http://feeds.wordpress.com/1.0/goreddit/pismenny.wordpress.com/113/&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/reddit/pismenny.wordpress.com/113/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://stats.wordpress.com/b.gif?host=pismenny.ru&amp;amp;blog=3457219&amp;amp;post=113&amp;amp;subd=pismenny&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Персональные блоги / Управление личными финансами без изнурительного журналирования каждой покупки</title>
+   <link href="http://dapi.ru/03-22-2010-personalnye-blogi-upravlenie-lichnymi-finansami-bez-iznuritelnogo-zhurnalirovaniya-kazhdoy-pokupki.html"/>
+   <updated>2010-03-22T00:00:00+03:00</updated>
+   <id>http://dapi.ru/personalnye-blogi-upravlenie-lichnymi-finansami-bez-iznuritelnogo-zhurnalirovaniya-kazhdoy-pokupki</id>
+   <content type="html">В догонку недавно пробежавшей теме &lt;a href=&quot;http://habrahabr.ru/blogs/google/87739/&quot;&gt;о семейным бюджете в Google Docs&lt;/a&gt;, расскажу как просто управлять личными финансами без изнурительного журналирования всех движений денежных средств, с помощью «промышленного метода» применяемого в коммерческих организациях.&lt;br/&gt;
+&lt;div class=&quot;habracut&quot;&gt; &lt;a class=&quot;habracut&quot; href=&quot;http://dapi.habrahabr.ru/blog/88384/#habracut&quot;&gt;Читать дальше &amp;rarr;&lt;/a&gt; &lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Персональные блоги / Почему российская власть держит народ за быдло</title>
+   <link href="http://dapi.ru/03-10-2010-personalnye-blogi-pochemu-rossiyskaya-vlast-derzhit-narod-za-bydlo.html"/>
+   <updated>2010-03-10T00:00:00+03:00</updated>
+   <id>http://dapi.ru/personalnye-blogi-pochemu-rossiyskaya-vlast-derzhit-narod-za-bydlo</id>
+   <content type="html">Российская власть относится к собственному народу как к быдлу. Потому что так и есть. Не верите? Включайтесь!&lt;br/&gt;
+&lt;br/&gt;
+&lt;div class=&quot;habracut&quot;&gt; &lt;a class=&quot;habracut&quot; href=&quot;http://dapi.habrahabr.ru/blog/86996/#habracut&quot;&gt;Читать дальше &amp;rarr;&lt;/a&gt; &lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Управление финансами без изнурительного журналирования</title>
+   <link href="http://dapi.ru/01-12-2010-upravlenie-finansami-bez-iznuritelnogo-zhurnalirovaniya.html"/>
+   <updated>2010-01-12T00:00:00+03:00</updated>
+   <id>http://dapi.ru/upravlenie-finansami-bez-iznuritelnogo-zhurnalirovaniya</id>
+   <content type="html">&lt;p&gt;Чем занимается финансовый директор на предприятии? Правильно — следит за тем чтобы предприятие не потратило денег больше, чем зарабатывает, а также имело средства на поставленные задачи в будущем. Слова, которые финдиректор чаще всего произносит: «мы не можем себе этого позволить» директору слышать, порой, очень странно, ведь вот же эти деньги на счету есть?&lt;/p&gt;
+&lt;p&gt;&lt;img title=&quot;Positive Cash Flow&quot; src=&quot;http://www.monroeartist.com/online_store/images/OrgCashFlow.jpg&quot; alt=&quot;&quot; width=&quot;449&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Дело в том, что когда мы заработали 10 тыс рублей, нам кажется что мы можем распоряжаться всеми этими средствами, на самом деле это не так. Нам нужно заплатить квартплату, налоги, кредиты, купить себе еду, отложить на одежду и другие цели, и только остаток тратить. Из каждой заработанной суммы мы можем тратить обычно только меньшую её часть и нам нужно определить какую.&lt;/p&gt;
+&lt;p&gt;&lt;span id=&quot;more-1&quot;&gt;&lt;/span&gt;Да, порой для этого нужен специально обученый человек и даже отдел. Но сам принцип достаточно прост, вы можете его применять для собственной бухгалтерии, будете Сам Себе Финдиректор.&lt;/p&gt;
+&lt;h4&gt;Три правила финдиректора&lt;/h4&gt;
+&lt;p&gt;1) &lt;strong&gt;Вы не являетесь владельцем всех денег, которые есть у вас&lt;/strong&gt;. Потому что: во-первых деньги текучи, во-вторых большая часть денег не ваши — с той суммы, что вы заработали нужно оплатить постоянные улсуги (квартплату, кредиты, налоги и тп) и, фактически, вы их просто временно у себя храните. Но есть и радостная новость, Вы — владельц денежных потоков и можете ими управлять. Одни потоки приносят вам деньги, а другие уносят. Но вам решать какие потоки куда направить. Вам нужно лишь их правильно оценить.&lt;/p&gt;
+&lt;p&gt;2) &lt;strong&gt;Вы (как и любая другая организация) всегда потратите все пришедшие к вам средства.&lt;/strong&gt; Сколько бы денег вы не зарабатывали, в конце-концов вы потратите все, вопрос только когда и на что. Денег всегда не хватает. И поэтому определять на что вы будете их тратить нужно до того, как вы их заработали.&lt;/p&gt;
+&lt;p&gt;3) Чтобы не быть просто трубой, через которую проходят денежные потоки (пусть даже и большие), а что-то накапливать, &lt;strong&gt;нужно понимать на что именно вы накапливаете и когда вы эти накопления используете&lt;/strong&gt;. Копилка, в которую вы направляете эти средства, называется фондом. Например «Фонд велосипеда». Исходя из того когда вы хотите купить велосипед и сколько он стоит высчитывается необходимая скорость пополнения этого фонда. Например: 2 тыс. рублей в месяц.&lt;/p&gt;
+&lt;h4&gt;Собственно методика.&lt;/h4&gt;
+&lt;p&gt;Буду показывать на собственном примере, хотя и утрированном. Так как я являюсь не только физическим лицом, но и Честным Предпринимателем, но объем средств и частота транзакций по ЧП не велика — я веду общий бюджет и по личным средствам и по ЧП-шным. Бюджет у меня месячный.&lt;/p&gt;
+&lt;p&gt;И так:&lt;/p&gt;
+&lt;h5&gt;I. Считаем постоянные ежемесячные траты.&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;Квартплата и бытовые нужды — 10 тыс.&lt;/li&gt;
+&lt;li&gt;Кредиты — 28 тыс.&lt;/li&gt;
+&lt;li&gt;Питание — 10 тыс.&lt;/li&gt;
+&lt;li&gt;ГСМ — 3 тыс.&lt;/li&gt;
+&lt;li&gt;На карман, подарки — 3 тыс.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5&gt;II. Определяем нашил цели и фонды под них.&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Мне нужно в конце года заплатить в пенсионный по ИП 12 тыс. Значит откладываю в налоговый фонд со скоростью 1 тыс. руб. в месяц.&lt;/li&gt;
+&lt;li&gt;Мне еще нужно отчислять по 6% с каждого прихода по ИП ежеквартально. Я знаю средний приход по ИП в месяц — 100 тыс. соответсвенно перечисляю в налоговый фонд по 6 тыс рублей ежемесячно. Налоговый фонд у меня находится на сберегательном счету в банке. Я с него еще и проценты получаю )&lt;/li&gt;
+&lt;li&gt;В год мы покупаем вещей, в среднем, на 60 тыс. значит в фонд шмоток я буду откладывать со скоростью 5 тыс в месяц. Шмоточный фонд у меня это отдельная пластикова карта (красная)&lt;/li&gt;
+&lt;li&gt;На ТО авто в год я трачу 36 тыс. значит в свой автомобильный фонд я буду каждый месяц откладывать по 3 тыс. Складываю в пакетик с документами на авто.&lt;/li&gt;
+&lt;li&gt;Фонд непредвиденных расходов (НЗ). Я его размер установил сам, исходя из собственных доходов. Скорость его пополнения — 5 тыс. руб. дата использования не определена — когда понадобится. Сберегательный счет в банке.&lt;/li&gt;
+&lt;li&gt;На лодку. Хочу через год купить лодку стоимость 300 тыс. значит откладываю по 25 тыс. в месяц. Сберегательный счет в банке.&lt;/li&gt;
+&lt;li&gt;Так как мне повезло и я уже создал себе небольшой «свечной заводик на старость», то на пенсионный фонд мне перечислять не нужно, и все средства, что останутся после распределениям по фондам, я кладу в фонд лодки, ускоряя таким образом ее появление.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;III. Ежемесячно раскладываем доход по фондам/счетам/баночкам.&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;Так как ежедневные траты идут только по статьям: «питание», «ГСМ», «на карман», то только эти деньги я перечисляю на свою расчетную пласитковую карту или кладу в кошелек. Собственно только эта карта и кошелек и являются источником всех ежедневных трат. Сумма не большая и имеет всего три направления расходования, поэтому проконтроллировать ее достаточно легко без ведения записей. В крайнем случае можно исользовать метод &lt;a href=&quot;http://www.4konverta.com/&quot;&gt;«4 конверта»&lt;/a&gt;.&lt;br /&gt;
+Конечно для того, чтобы определить сколько у вас, в среднем, ежемесячно уходит денег по этим статьям придется месяцок-другой делать записи. Но этого достаточно, так как размер всех других трат (кредиты, налоги) фиксированы и известны, нет смысла записывать в журнальчик что вот, я опять, с счета такого-то заплатил за кредит такой-то — вы и так его оплатите, когда будете раз в месяц раскладывать по баночкам свой приход (см. пункт 3).&lt;/li&gt;
+&lt;li&gt;Согласно установленным правилам раскидываем средства по фондам;&lt;/li&gt;
+&lt;li&gt;По статьям постоянных расходов (квартплата, кредиты) оплата происходит сразу же после распила дохода (ну точнее на следующий день), поэтому под них никаких баночек не нужно, просто положил в отдельный карман и сходил на следующей деньг с него заплатил.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Что такое фонды в случае личного бюджета? Да что угодно. Это баночка из под селедки, карман, счет в банке или пластиковая карта. Главное чтобы в него регулярно поступали средства с установленной скоростью и расходовались только на цель. Иначе это будет &lt;em&gt;нецелевое использование средств&lt;/em&gt; &lt;img src='http://s2.wp.com/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /&gt; &lt;/p&gt;
+&lt;p&gt;Я сторонник строгого разделения фондов по отдельным счетам, это позволяет мне не вести журнальный учет (выписку о счета можно и так всегда посмотреть), хотя вполне можно пользоваться и одним счетом (баночкой) для нескольких фондов, правда тогда придется вести запись какая часть ее средств куда нацелена, а как раз этого делать и не хочется.&lt;/p&gt;
+&lt;h4&gt;Резюме.&lt;/h4&gt;
+&lt;p&gt;1. Определяем свои цели — сумму, срок и вычисляем скорость пополения целевых фондов. Заплатить налоги вовремя это тоже цель.&lt;br /&gt;
+2. Определяем все фиксированные ежемесячные траты (5 минут, исходя из счетов за прошлый месяц)&lt;br /&gt;
+3. Расчитываем ежедневные траты (питание, развлечение и т.п) — ну тут придется немного повести записи.&lt;br /&gt;
+4. Согласно расчетам ежемесячно раскладываем средства по фондам, счетам, баночкам и карманам.&lt;br /&gt;
+5. Тратим средства из того фонда, который расчитан на эту трату.&lt;/p&gt;
+&lt;h4&gt;Трудности&lt;/h4&gt;
+&lt;p&gt;На личном опыте знаю, что не всегда, точнее даже почти всегда трудно перейти на такую систему учета финансов из безсистемной оплаты счетов в порядке поступления средств. Трудно это сделать и с лисными финансами и, тем более, финансами предприятия. Порой на это требуются месяцы. Но зато пользоваться такой системой очень просто. Не нужно каждый день что-то записывать и думать можете вы себе это позволить или нет, достаточно раз в месяц разложить все баночкам/карманам. И главное — таким образом вы увидите откуда могут взяться средства на то, что вам нужно.&lt;/p&gt;
+&lt;p&gt;Некоторые считают, что для того, чтобы применять такой способ управления финансами нужно иметь большой оборот. Это не так, и даже наоборот — вы начинаете больше зарабатывать, когда научитесь таким образом управлять своими финансами.&lt;/p&gt;
+&lt;p&gt;Всем удачи!&lt;/p&gt;
+&lt;br /&gt;  &lt;a rel=&quot;nofollow&quot; href=&quot;http://feeds.wordpress.com/1.0/gocomments/pismenny.wordpress.com/1/&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/pismenny.wordpress.com/1/&quot; /&gt;&lt;/a&gt; &lt;a rel=&quot;nofollow&quot; href=&quot;http://feeds.wordpress.com/1.0/godelicious/pismenny.wordpress.com/1/&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/delicious/pismenny.wordpress.com/1/&quot; /&gt;&lt;/a&gt; &lt;a rel=&quot;nofollow&quot; href=&quot;http://feeds.wordpress.com/1.0/gofacebook/pismenny.wordpress.com/1/&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/facebook/pismenny.wordpress.com/1/&quot; /&gt;&lt;/a&gt; &lt;a rel=&quot;nofollow&quot; href=&quot;http://feeds.wordpress.com/1.0/gotwitter/pismenny.wordpress.com/1/&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/twitter/pismenny.wordpress.com/1/&quot; /&gt;&lt;/a&gt; &lt;a rel=&quot;nofollow&quot; href=&quot;http://feeds.wordpress.com/1.0/gostumble/pismenny.wordpress.com/1/&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/stumble/pismenny.wordpress.com/1/&quot; /&gt;&lt;/a&gt; &lt;a rel=&quot;nofollow&quot; href=&quot;http://feeds.wordpress.com/1.0/godigg/pismenny.wordpress.com/1/&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/digg/pismenny.wordpress.com/1/&quot; /&gt;&lt;/a&gt; &lt;a rel=&quot;nofollow&quot; href=&quot;http://feeds.wordpress.com/1.0/goreddit/pismenny.wordpress.com/1/&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/reddit/pismenny.wordpress.com/1/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://stats.wordpress.com/b.gif?host=pismenny.ru&amp;amp;blog=3457219&amp;amp;post=1&amp;amp;subd=pismenny&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Управление проектами / Управление проектами с почасовой оплатой</title>
+   <link href="http://dapi.ru/08-14-2009-upravlenie-proektami-upravlenie-proektami-s-pochasovoy-oplatoy.html"/>
+   <updated>2009-08-14T00:00:00+04:00</updated>
+   <id>http://dapi.ru/upravlenie-proektami-upravlenie-proektami-s-pochasovoy-oplatoy</id>
+   <content type="html">Расскажу о том, как превратить почасовую оплату в отличный способ управления проектом. А также о том, как заказчику (менеджеру проекта) не волноваться о завышении сроков разработчиком, а разработчику не беспокоиться, что заказчик будет его двигать по срокам.&lt;br/&gt;
+&lt;br/&gt;
+&lt;div class=&quot;habracut&quot;&gt; &lt;a class=&quot;habracut&quot; href=&quot;http://habrahabr.ru/blogs/pm/64660/#habracut&quot;&gt;время-деньги&lt;/a&gt; &lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ruby / BDD с помощью Cucumber</title>
+   <link href="http://dapi.ru/06-29-2009-ruby-bdd-s-pomoschyu-cucumber.html"/>
+   <updated>2009-06-29T00:00:00+04:00</updated>
+   <id>http://dapi.ru/ruby-bdd-s-pomoschyu-cucumber</id>
+   <content type="html">Если вы привыкли сначала писать код, а потом его тестировать, то с BDD такой подход совсем не уместен. Сила BDD в том, что он помогает вести разработку начиная со стадии оформления ТЗ. Для BDD это список свойств (фич), который уместно писать вместе с заказчиком.&lt;br/&gt;
+&lt;br/&gt;
+Но самое главное, что по этому же списку происходит автоматическое тестирование проекта. Инструмент тестирования (в нашем случае это Cucumber) методично пройдет по вашему перечню и дотошно проверит реализацию каждой фичи.&lt;br/&gt;
+&lt;div class=&quot;habracut&quot;&gt; &lt;a class=&quot;habracut&quot; href=&quot;http://habrahabr.ru/blogs/ruby/62958/#habracut&quot;&gt;Читать дальше &amp;rarr;&lt;/a&gt; &lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Саморазвитие / Вольпинизм</title>
+   <link href="http://dapi.ru/06-26-2008-samorazvitie-volpinizm.html"/>
+   <updated>2008-06-26T00:00:00+04:00</updated>
+   <id>http://dapi.ru/samorazvitie-volpinizm</id>
+   <content type="html">Занимаясь, по долгу службы, исполнением собственных замыслов я, как и большинство здесь собравшихся, столкнулся с тем, что не все идеи и проекты находят свое воплощение.&lt;br/&gt;
+&lt;br/&gt;
+Не устали еще это слышать? :)&lt;br/&gt;
+&lt;br/&gt;
+Наверняка уже читали о том, что для успеха проекта необходимо иметь цель и план?&lt;br/&gt;
+&lt;br/&gt;
+Есть кое что еще…&lt;br/&gt;
+&lt;div class=&quot;habracut&quot;&gt; &lt;a class=&quot;habracut&quot; href=&quot;http://habrahabr.ru/blogs/selfdevelopment/27970/#habracut&quot;&gt;Читать дальше &amp;rarr;&lt;/a&gt; &lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Дизайн / Кому нужен дизайн, кроме дизайнеров?</title>
+   <link href="http://dapi.ru/06-11-2008-dizayn-komu-nuzhen-dizayn-krome-dizaynerov.html"/>
+   <updated>2008-06-11T00:00:00+04:00</updated>
+   <id>http://dapi.ru/dizayn-komu-nuzhen-dizayn-krome-dizaynerov</id>
+   <content type="html">Вы действительно все еще верите что дизайн делает продажи?&lt;br/&gt;
+&lt;br/&gt;
+&lt;div class=&quot;habracut&quot;&gt; &lt;a class=&quot;habracut&quot; href=&quot;http://habrahabr.ru/blogs/design/27232/#habracut&quot;&gt;Читать дальше &amp;rarr;&lt;/a&gt; &lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Саморазвитие / Обманывая других мы вредим сами себе</title>
+   <link href="http://dapi.ru/06-08-2008-samorazvitie-obmanyvaya-drugih-my-vredim-sami-sebe.html"/>
+   <updated>2008-06-08T00:00:00+04:00</updated>
+   <id>http://dapi.ru/samorazvitie-obmanyvaya-drugih-my-vredim-sami-sebe</id>
+   <content type="html">Думаю что и на этот счет у Английских ученых есть свои исследования, правда я с ними не знаком, зато у меня в этом большой собственный опыт.&lt;br/&gt;
+&lt;br/&gt;
+Опыт, с которым давно пора покончить.&lt;br/&gt;
+&lt;br/&gt;
+Так почему же обманывать это плохо? Я говорю не о том, что делаем плохо кому-то, а отом что обманывая наносим сильный вред самим себе.&lt;br/&gt;
+&lt;br/&gt;
+Зачем мы врем?&lt;br/&gt;
+&lt;br/&gt;
+&lt;div class=&quot;habracut&quot;&gt; &lt;a class=&quot;habracut&quot; href=&quot;http://habrahabr.ru/blogs/selfdevelopment/27069/#habracut&quot;&gt;Читать дальше &amp;rarr;&lt;/a&gt; &lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Персональные блоги / Физис</title>
+   <link href="http://dapi.ru/06-06-2008-personalnye-blogi-fizis.html"/>
+   <updated>2008-06-06T00:00:00+04:00</updated>
+   <id>http://dapi.ru/personalnye-blogi-fizis</id>
+   <content type="html">Писать от души получается, когда не по себе. А когда не по себе - лучше писать, чем мучаться молча. Мутит что-то внутри. Толи чая перепил, толи от людей. Толи от положения. Хотя какое тут положение.&lt;br /&gt;
+&lt;br /&gt;
+Завтра снова приниматься за дело. В шесть утра телефон пилим-пилип. Сарделька, натуральный кофе (оп-па, а без кофе уже никак), 20 минут душ, ежедневник. Хабр, Жажда (zhazhda.ru), одноклассники, может быть news2, снова жажда, jdu.ru, снова жажда, висит там ещё два человека.&lt;br /&gt;
+&lt;br /&gt;
+Психологи говорят, что помимо хорошо изученных напряженностей управляющих человеком, есть ещё и ни хера не изученный 'физис'. Это такое стремление всего живого к росту и жизни. Та самая жажда жизни. Что с живыми не делаешь, а она всегда у них присутствует. А если её нет - тыц, суицид. И почему она есть, почему её нет - не понятно. Почему химические процессы в организме при тысячи возможных вариантов протекают именно так, что это приводит к росту - фиг на самом деле знает - просто физис и все тут. А если его нет - все достаточно быстро кончится.&lt;br /&gt;
+&lt;br /&gt;
+У меня бывает физис пропадает. День-два. Когда дело до стенки доходит, и уже некуда дальше - отталкиваешься от неё, как от дна моря.&lt;br /&gt;
+&lt;br /&gt;
+В детстве, когда ещё плохо плавал, любил затаить дыхание и нырять поглубже, опускаешься до тех пор, пока не встретишь ногами дно, а как встретишь - сжимаешься и выталкиваешься как пружинка. Если хорошо выпрямиться можно внезапно выскочить, как дельфин :) Однажды опускался так, опускался, а дна нет. Уже и воздух кончается. Наверх грести - не хватит запаса кислорода, скорость небольшая, да и плаваю плохо. А вниз - уже страшно - неизвестно где дно там, может быть с одного прыжка и не получится выпрыгнуть - тогда точно воздуха нехватит. Незнаю что сработало физис или усталость, но решил опускаться. Все равно этим бы все закончилось. Уже уши закладывает и темно как-то.. А, вот одно дно, мягкое такое, не заметное. Уже не нервничаешь, спокоен, понимаешь, только один шанс, и лучше быть спокойным, кислород попусту не тратить. Сжался сильно-сильно, как мог сильно, секунду замер и - стрелой вверх! Обтекаемый весь такой, как супермен, блин, и чувствуешь вокруг поток воды, ждешь до последнего, до последнего, до последнего! Вот уже не двигаешься, гребок руками.. ии-и-и! Не получилось как дельфин, получилось как старый дед - ыыыык.. аааа, кх-кх-кх..&lt;br /&gt;
+&lt;br /&gt;
+Физис..&lt;br /&gt;
+&lt;br /&gt;
+В жизни, заметил, таже фигня. Когда тебя что-то прижимает к стенке, опускаешься, кажется все плохо и на совсем, а потом понимаешь, до бесконечности это продолжатсья не может и вот уже через некоторое время, чувствуешь твердую почву под ногами. Глубоко, но твердую. Встал на неё покрепче, походил, отдохнул, успокоился, переосмыслил, а в общем-то не так все и плохо, низко, зато уверенно. Нормальная такая почва под ногами. При желании можно так сжаться и прыгнуть - что вообще улетишь!
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Саморазвитие / Идеи и результат</title>
+   <link href="http://dapi.ru/06-05-2008-samorazvitie-idei-i-rezultat.html"/>
+   <updated>2008-06-05T00:00:00+04:00</updated>
+   <id>http://dapi.ru/samorazvitie-idei-i-rezultat</id>
+   <content type="html">&lt;strong&gt;Корреляция&lt;/strong&gt;&lt;br/&gt;
+&lt;br/&gt;
+Как-то заметил, что между критикой и успехом есть корреляция. Чем интенсивнее критика, тем, очевидно, более высокую задачу поставил себе тот, кого критикуют. А чем ближе он к реализации своей задачи, тем менее, душевным и близким он становится другим людям и тем больше его критика.&lt;br/&gt;
+&lt;br/&gt;
+ — Ах он такой, дурак, он нас умных не слушает, делает неизвестно что, его проект провалится!&lt;br/&gt;
+&lt;br/&gt;
+И уж если он, действително проваливается, тут нет конца счастья! Вот оно! Свершилось то, о чем они говорили! Их не слушали и, вот, проект загнулся! Ура товарищи! Ещё раз доказали что мы были правы!&lt;br/&gt;
+&lt;br/&gt;
+Я попытался разобраться в этом феномене и понял что проблема в видении целей проекта и задач которые перед собой обычно ставят одни и другие.&lt;br/&gt;
+&lt;br/&gt;
+&lt;div class=&quot;habracut&quot;&gt; &lt;a class=&quot;habracut&quot; href=&quot;http://habrahabr.ru/blogs/selfdevelopment/26851/#habracut&quot;&gt;Читать дальше &amp;rarr;&lt;/a&gt; &lt;/div&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>

@@ -1,0 +1,16 @@
+# https://github.com/mojombo/jekyll/wiki/configuration
+
+auto: true
+server: true
+markdown: maruku
+pygments: true
+#permalink: date
+permalink: /:month-:day-:year-:title.html 
+
+# source: .
+# destination: ./_site
+
+# tag_page_layout: tag_page
+# tag_page_dir: tag
+
+#exclude: www
